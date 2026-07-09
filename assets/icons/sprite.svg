@@ -1,0 +1,56 @@
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <style>
+        .use-stroke{fill:none;stroke:currentColor;stroke-linecap:butt;stroke-linejoin:butt}.use-fill{fill:currentColor}
+      </style>
+      <symbol id="use-arrow-back" viewBox="0 0 32 32">
+        <polyline class="use-stroke" points="16 6 6 16 16 26"/>
+        <polyline class="use-stroke" points="18 10 14 14 26 14 26 26"/>
+        <polyline class="use-stroke" points="18 22 14 18 22 18 22 26"/>
+      </symbol>
+      <symbol id="use-arrow-forward" viewBox="0 0 32 32">
+        <polyline class="use-stroke" points="16 6 26 16 16 26"/>
+        <polyline class="use-stroke" points="14 10 18 14 6 14 6 26"/>
+        <polyline class="use-stroke" points="14 22 18 18 10 18 10 26"/>
+      </symbol>
+      <symbol id="use-arrow-down" viewBox="0 0 32 32">
+        <polyline class="use-stroke" points="6 16 16 26 26 16"/>
+        <polyline class="use-stroke" points="10 14 14 18 14 6 26 6"/>
+        <polyline class="use-stroke" points="22 14 18 18 18 10 26 10"/>
+      </symbol>
+      <symbol id="use-arrow-up" viewBox="0 0 32 32">
+        <polyline class="use-stroke" points="6 16 16 6 26 16"/>
+        <polyline class="use-stroke" points="10 18 14 14 14 26 26 26"/>
+        <polyline class="use-stroke" points="22 18 18 14 18 22 26 22"/>
+      </symbol>
+      <symbol id="use-arrow-ex" viewBox="0 0 32 32">
+        <polyline class="use-stroke" points="23.78 22.36 23.78 8.22 9.64 8.22"/>
+        <polyline class="use-stroke" points="19.54 20.95 19.54 15.29 11.05 23.78"/>
+        <polyline class="use-stroke" points="11.05 12.46 16.71 12.46 8.22 20.95"/>
+      </symbol>
+      <symbol id="use-close" viewBox="0 0 32 32">
+        <polyline class="use-stroke" points="8 8 16 12 24 8"/>
+        <polyline class="use-stroke" points="6 12 14 16 6 20"/>
+        <polyline class="use-stroke" points="26 12 18 16 26 20"/>
+        <polyline class="use-stroke" points="8 24 16 20 24 24"/>
+      </symbol>
+      <symbol id="use-play" viewBox="0 0 32 32">
+        <polyline class="use-stroke" points="14 6 24 16 14 26"/>
+        <polyline class="use-stroke" points="12 10 12 22 18 16 15.99 14.02"/>
+      </symbol>
+      <symbol id="use-filter" viewBox="0 0 32 32">
+        <polyline class="use-stroke" points="24 8 26 6 6 6 14 14 14 26 18 22 18 14 22 10 16 10"/>
+      </symbol>
+      <symbol id="use-arrow-ex-s" viewBox="0 0 12 12">
+        <polyline class="use-stroke" points="3,3 9,3 9,9"/>
+        <line class="use-stroke" x1="3" y1="9" x2="9" y2="3"/>
+      </symbol>
+      <symbol id="use-outcrop-symbol" viewBox="0 0 128 128">
+        <polyline class="use-stroke" points="16 108 32 92 48 108 64 92 80 108 96 92 112 108"/>
+        <polyline class="use-stroke" points="24 88 32 80 48 96 64 80 80 96 96 80 104 88"/>
+        <polyline class="use-stroke" points="24 64 32 56 48 72 64 56 80 72 96 56 104 64"/>
+        <polyline class="use-stroke" points="24 40 32 32 48 48 64 32 80 48 96 32 104 40"/>
+        <polyline class="use-stroke" points="16 84 32 68 48 84 64 68 80 84 96 68 112 84"/>
+        <polyline class="use-stroke" points="16 60 32 44 48 60 64 44 80 60 96 44 112 60"/>
+        <polyline class="use-stroke" points="16 36 32 20 48 36 64 20 80 36 96 20 112 36"/>
+      </symbol>
+    </svg>
